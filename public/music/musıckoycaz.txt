@@ -1,0 +1,2 @@
+Bu klasöre kumralim.mp3 dosyasını koyun.
+Giriş animasyonu tıklandığında otomatik çalmaya başlar.
