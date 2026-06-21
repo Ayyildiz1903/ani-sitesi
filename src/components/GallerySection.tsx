@@ -260,7 +260,7 @@ function PhotoOrPlaceholder({ src, alt }: { src: string; alt: string }) {
         </span>
       </div>
       {/* Actual image (comment src in to use) */}
-      {/* <Image src={src} alt={alt} fill className="object-cover opacity-60" /> */}
+      <Image src={src} alt={alt} fill className="object-cover opacity-60" />
     </div>
   );
 }
